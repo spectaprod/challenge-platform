@@ -1,7 +1,14 @@
 # Dash Goal/Challenge Platform
 
-You can test the site [here](https://challenge-platform.herokuapp.com/).
+You can test the site [here](https://dev-challenge-platform.herokuapp.com/).
 
+## Pages
+(update as pull requests are merged)
+
+[login](https://dev-challenge-platform.herokuapp.com/login)
+[create wallet](https://dev-challenge-platform.herokuapp.com/creat-wallet)
+[add/edit challenge](https://dev-challenge-platform.herokuapp.com/...)
+[dashboard](https://dev-challenge-platform.herokuapp.com/...)
 
 ## Installation
 
